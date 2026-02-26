@@ -1,5 +1,5 @@
 ## Hello, I'm Carla ♡
-I'm passionate about becoming a Full-Stack Developer with cloud specialization, and I'm actively seeking opportunities to expand my expertise in software development. My current focus includes mastering cloud technologies while learning new programming languages and frameworks to build scalable, modern solutions. <br/>
+Fourth-year Software Engineering student, with a Cloud oriented backend profile. I am currently delving into Infrastructure as Code, training in AWS services and deploying infrastructures using Terraform and GitHub Actions.
 
 # 👩🏻‍💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
